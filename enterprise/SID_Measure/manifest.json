@@ -9,7 +9,7 @@
   "description": "Widget used for measuring on the map with lengths",
   "copyright": "2024",
   "widgetPath": "dist/runtime/widget.js",
-  "settingPath": "dist/setting/setting.js"
+  "settingPath": "dist/setting/setting.js",
   "license": "http://www.apache.org/licenses/LICENSE-2.0",
   "properties": {
   },
